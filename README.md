@@ -5,6 +5,8 @@
  * npm run build:dev
  * npm run dev
 
+Ссылка на проект: by-alot.me/
+
 # Главная страница
 ![2024-01-02_01-09-13](https://github.com/webDevArtur/medicine_images_of_melanoma/assets/141954990/eb402d25-0f20-4e01-bd46-19348cf9c161)
 
